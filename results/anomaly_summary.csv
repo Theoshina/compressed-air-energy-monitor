@@ -1,0 +1,59 @@
+timestamp,anomaly_score,estimated_excess_power_kw,recommendation
+2026-01-15 08:00:00,0.18287429490643037,7.26,Inspect downstream leaks or pressure drop
+2026-01-28 04:00:00,0.14176080075570385,7.57,Inspect downstream leaks or pressure drop
+2026-01-23 07:00:00,0.12447472024573769,7.19,Inspect downstream leaks or pressure drop
+2026-01-15 03:00:00,0.10469635953995782,8.6,Inspect downstream leaks or pressure drop
+2026-01-07 04:00:00,0.10329878005163162,4.78,Inspect downstream leaks or pressure drop
+2026-01-28 02:00:00,0.100029306706644,7.84,Inspect downstream leaks or pressure drop
+2026-01-21 18:00:00,0.08694933960700402,0.0,Investigate abnormal compressed-air consumption
+2026-01-23 05:00:00,0.08657637279709274,7.74,Inspect downstream leaks or pressure drop
+2026-01-07 11:00:00,0.08601739004586961,7.22,Inspect downstream leaks or pressure drop
+2026-01-24 18:00:00,0.0801373671969643,0.0,Investigate abnormal compressed-air consumption
+2026-01-15 10:00:00,0.07509928742284333,6.73,Inspect downstream leaks or pressure drop
+2026-01-28 06:00:00,0.07113142178351128,6.87,Inspect downstream leaks or pressure drop
+2026-01-23 09:00:00,0.06629734769654261,7.36,Inspect downstream leaks or pressure drop
+2026-01-12 17:00:00,0.06113476208636337,0.0,Investigate abnormal compressed-air consumption
+2026-01-20 19:00:00,0.05853848713274157,0.0,Investigate abnormal compressed-air consumption
+2026-01-08 08:00:00,0.05838436385100554,2.8,Inspect downstream leaks or pressure drop
+2026-01-23 01:00:00,0.057783758013623676,7.13,Inspect downstream leaks or pressure drop
+2026-01-23 04:00:00,0.05576429998609822,6.6,Inspect downstream leaks or pressure drop
+2026-01-21 19:00:00,0.053229447174240385,0.0,Investigate abnormal compressed-air consumption
+2026-01-28 07:00:00,0.05020014794914984,6.09,Inspect downstream leaks or pressure drop
+2026-01-07 05:00:00,0.04986700322384108,6.18,Inspect downstream leaks or pressure drop
+2026-01-16 17:00:00,0.045679163738024164,0.9,Investigate abnormal compressed-air consumption
+2026-01-07 10:00:00,0.042903749853843376,7.64,Inspect downstream leaks or pressure drop
+2026-01-15 05:00:00,0.0378953223415226,6.56,Inspect downstream leaks or pressure drop
+2026-01-23 19:00:00,0.03758896124357736,0.0,Investigate abnormal compressed-air consumption
+2026-01-28 17:00:00,0.03647397626872195,0.0,Investigate abnormal compressed-air consumption
+2026-01-28 13:00:00,0.03404722686009931,5.04,Inspect downstream leaks or pressure drop
+2026-01-10 19:00:00,0.03363798029558507,0.0,Investigate abnormal compressed-air consumption
+2026-01-25 17:00:00,0.03219542499964445,0.0,Investigate abnormal compressed-air consumption
+2026-01-22 23:00:00,0.031413078582765985,7.65,Inspect downstream leaks or pressure drop
+2026-01-28 18:00:00,0.02819711850067108,1.35,Investigate abnormal compressed-air consumption
+2026-01-15 06:00:00,0.026743078836821255,2.73,Inspect downstream leaks or pressure drop
+2026-01-07 03:00:00,0.020907077204573077,6.22,Inspect downstream leaks or pressure drop
+2026-01-15 07:00:00,0.020414260703257914,3.98,Inspect downstream leaks or pressure drop
+2026-01-15 02:00:00,0.019925896694226175,7.11,Inspect downstream leaks or pressure drop
+2026-01-11 19:00:00,0.019300469642162255,0.2,Investigate abnormal compressed-air consumption
+2026-01-15 15:00:00,0.019204133802068757,7.6,Inspect downstream leaks or pressure drop
+2026-01-28 10:00:00,0.016406050736004985,5.35,Inspect downstream leaks or pressure drop
+2026-01-25 09:00:00,0.01579402328334778,0.0,Inspect downstream leaks or pressure drop
+2026-01-29 21:00:00,0.0157347901315672,0.31,Investigate abnormal compressed-air consumption
+2026-01-29 04:00:00,0.014199291584423124,0.06,Inspect downstream leaks or pressure drop
+2026-01-14 21:00:00,0.014160710707256552,7.22,Inspect for compressed-air leak; demand is low but airflow is high
+2026-01-07 18:00:00,0.014055351527052284,6.9,Inspect downstream leaks or pressure drop
+2026-01-28 09:00:00,0.01348338502006885,5.36,Inspect downstream leaks or pressure drop
+2026-01-26 18:00:00,0.011694312753767755,0.0,Investigate abnormal compressed-air consumption
+2026-01-06 06:00:00,0.01152304036738272,0.0,Investigate abnormal compressed-air consumption
+2026-01-02 06:00:00,0.01139097266070388,0.1,Inspect downstream leaks or pressure drop
+2026-01-28 08:00:00,0.010519541548734357,7.99,Inspect downstream leaks or pressure drop
+2026-01-28 11:00:00,0.009402609937917306,7.23,Inspect downstream leaks or pressure drop
+2026-01-14 22:00:00,0.008923942866953194,8.29,Inspect downstream leaks or pressure drop
+2026-01-11 07:00:00,0.006575929669545233,0.24,Inspect downstream leaks or pressure drop
+2026-01-15 04:00:00,0.00609541784261125,8.32,Inspect downstream leaks or pressure drop
+2026-01-28 05:00:00,0.004202359064860883,7.47,Inspect downstream leaks or pressure drop
+2026-01-21 16:00:00,0.0032080476079220377,0.0,Investigate abnormal compressed-air consumption
+2026-01-15 09:00:00,0.002860343359320061,7.09,Inspect downstream leaks or pressure drop
+2026-01-07 14:00:00,0.0025334502422535987,7.25,Inspect for compressed-air leak; demand is low but airflow is high
+2026-01-07 06:00:00,0.0006181718659152846,4.99,Inspect downstream leaks or pressure drop
+2026-01-07 09:00:00,0.00033527014576173464,5.98,Inspect downstream leaks or pressure drop
